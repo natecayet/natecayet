@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natecayet
 - 👀 I’m interested in making browser games
-- 🌱 I’m currently learning html, css, and javascipt in freeCodeCamp
+- 🌱 I’m currently learning html, css, and javascipt in freeCodeCamp/TheOdinProject
 - ⚡ Fun fact: soysauce taste good on everything!
 
 <!---
